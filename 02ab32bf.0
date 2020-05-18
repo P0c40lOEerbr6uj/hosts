@@ -1,0 +1,81 @@
+-----BEGIN CERTIFICATE-----
+MIIDuTCCAqGgAwIBAgIUDqpfFMoGSSCp2TrhOe4hqiYqnOgwDQYJKoZIhvcNAQEL
+BQAwbDELMAkGA1UEBhMCREUxEDAOBgNVBAgMB0NvbG9nbmUxDzANBgNVBAcMBkNv
+bG9nZTEUMBIGA1UECgwLUmFzcGJlcnJ5UGkxCzAJBgNVBAsMAkNBMRcwFQYDVQQD
+DA4xOTIuMTY4LjE3OC4yODAeFw0yMDA1MTYxMjE4MjlaFw0yMDA2MTUxMjE4Mjla
+MGwxCzAJBgNVBAYTAkRFMRAwDgYDVQQIDAdDb2xvZ25lMQ8wDQYDVQQHDAZDb2xv
+Z2UxFDASBgNVBAoMC1Jhc3BiZXJyeVBpMQswCQYDVQQLDAJDQTEXMBUGA1UEAwwO
+MTkyLjE2OC4xNzguMjgwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCd
+Qb6ukWk4zPgvm7jPay6H56pO8+ryk2se79hdAnz4PjJnF1XuIu0b7r14N9DQHe1p
+EHuOOi6rHR+KSTJKX6wy33gwp9p0GY22b5J2ATdK2w83mUy3WIsutNzPOwqr3Bya
+8h+Tpnf9OCMb0MZnD6EfP2baNh7QlJapQ2FbqUMiFbegGrMnXdF9Zubq9+SPBD5/
+P+Nuvy69hv1ce1u9kImWnicma5UltnueRjwXeMpNCNTtwfGUPjc3j18+q8CpMoSW
+ynnvpTaQ25Kh4VjHwP+sletwMor4aI3Kep+O88nB0RzSrEWwnIFpallyF75G9qA0
+My9pjP2mVozLa6yEopxpAgMBAAGjUzBRMB0GA1UdDgQWBBRj+jE0rNwVczfDNjzF
+vXTq1PsJGzAfBgNVHSMEGDAWgBRj+jE0rNwVczfDNjzFvXTq1PsJGzAPBgNVHRMB
+Af8EBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQA9HdxHzyPkDb2j/mvnt6O3QfAH
+xUf2UIVigRsefRnbwByTmNMNSVlgDlPuqquZkIgXrzG74eyZMiGo2nKMBe6QkO3K
+T/GhsvqCkCmje7HFmO9Eb01JxJwo6//cD44zJXjQrluIh9oByfLT4kDMDJRlPUDu
+13zfBd3kfBFUQwR9CKf/i40K4fMrv/AYKR6v5YpnfMF5rqsPzWgh1EApJMX2/R/E
+bWUM/JeWfIkviDN0EXwuH6l29eXPu+SaRAR8YChI1r0GkR0VQvyxMra57zfXB0Bj
+HrBJ26SwzezsdK8UxDXvzIkm2gylM3bEzBZhLHS7hspz3GaahzEbzvH00PpC
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            0e:aa:5f:14:ca:06:49:20:a9:d9:3a:e1:39:ee:21:aa:26:2a:9c:e8
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = DE, ST = Cologne, L = Cologe, O = RaspberryPi, OU = CA, CN = 192.168.178.28
+        Validity
+            Not Before: May 16 12:18:29 2020 GMT
+            Not After : Jun 15 12:18:29 2020 GMT
+        Subject: C = DE, ST = Cologne, L = Cologe, O = RaspberryPi, OU = CA, CN = 192.168.178.28
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:9d:41:be:ae:91:69:38:cc:f8:2f:9b:b8:cf:6b:
+                    2e:87:e7:aa:4e:f3:ea:f2:93:6b:1e:ef:d8:5d:02:
+                    7c:f8:3e:32:67:17:55:ee:22:ed:1b:ee:bd:78:37:
+                    d0:d0:1d:ed:69:10:7b:8e:3a:2e:ab:1d:1f:8a:49:
+                    32:4a:5f:ac:32:df:78:30:a7:da:74:19:8d:b6:6f:
+                    92:76:01:37:4a:db:0f:37:99:4c:b7:58:8b:2e:b4:
+                    dc:cf:3b:0a:ab:dc:1c:9a:f2:1f:93:a6:77:fd:38:
+                    23:1b:d0:c6:67:0f:a1:1f:3f:66:da:36:1e:d0:94:
+                    96:a9:43:61:5b:a9:43:22:15:b7:a0:1a:b3:27:5d:
+                    d1:7d:66:e6:ea:f7:e4:8f:04:3e:7f:3f:e3:6e:bf:
+                    2e:bd:86:fd:5c:7b:5b:bd:90:89:96:9e:27:26:6b:
+                    95:25:b6:7b:9e:46:3c:17:78:ca:4d:08:d4:ed:c1:
+                    f1:94:3e:37:37:8f:5f:3e:ab:c0:a9:32:84:96:ca:
+                    79:ef:a5:36:90:db:92:a1:e1:58:c7:c0:ff:ac:95:
+                    eb:70:32:8a:f8:68:8d:ca:7a:9f:8e:f3:c9:c1:d1:
+                    1c:d2:ac:45:b0:9c:81:69:6a:59:72:17:be:46:f6:
+                    a0:34:33:2f:69:8c:fd:a6:56:8c:cb:6b:ac:84:a2:
+                    9c:69
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                63:FA:31:34:AC:DC:15:73:37:C3:36:3C:C5:BD:74:EA:D4:FB:09:1B
+            X509v3 Authority Key Identifier: 
+                keyid:63:FA:31:34:AC:DC:15:73:37:C3:36:3C:C5:BD:74:EA:D4:FB:09:1B
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+    Signature Algorithm: sha256WithRSAEncryption
+         3d:1d:dc:47:cf:23:e4:0d:bd:a3:fe:6b:e7:b7:a3:b7:41:f0:
+         07:c5:47:f6:50:85:62:81:1b:1e:7d:19:db:c0:1c:93:98:d3:
+         0d:49:59:60:0e:53:ee:aa:ab:99:90:88:17:af:31:bb:e1:ec:
+         99:32:21:a8:da:72:8c:05:ee:90:90:ed:ca:4f:f1:a1:b2:fa:
+         82:90:29:a3:7b:b1:c5:98:ef:44:6f:4d:49:c4:9c:28:eb:ff:
+         dc:0f:8e:33:25:78:d0:ae:5b:88:87:da:01:c9:f2:d3:e2:40:
+         cc:0c:94:65:3d:40:ee:d7:7c:df:05:dd:e4:7c:11:54:43:04:
+         7d:08:a7:ff:8b:8d:0a:e1:f3:2b:bf:f0:18:29:1e:af:e5:8a:
+         67:7c:c1:79:ae:ab:0f:cd:68:21:d4:40:29:24:c5:f6:fd:1f:
+         c4:6d:65:0c:fc:97:96:7c:89:2f:88:33:74:11:7c:2e:1f:a9:
+         76:f5:e5:cf:bb:e4:9a:44:04:7c:60:28:48:d6:bd:06:91:1d:
+         15:42:fc:b1:32:b6:b9:ef:37:d7:07:40:63:1e:b0:49:db:a4:
+         b0:cd:ec:ec:74:af:14:c4:35:ef:cc:89:26:da:0c:a5:33:76:
+         c4:cc:16:61:2c:74:bb:86:ca:73:dc:66:9a:87:31:1b:ce:f1:
+         f4:d0:fa:42
+SHA1 Fingerprint=68:22:37:B1:D6:26:92:F8:3A:4D:FA:2A:FE:7C:47:BB:38:14:F2:09
