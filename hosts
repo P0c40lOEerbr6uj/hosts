@@ -12,7 +12,7 @@
 #
 # ===============================================================
 
-192.168.2.1 local-domain.com
+192.168.188.2 local-domain.com
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
